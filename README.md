@@ -72,7 +72,6 @@ MIT
 Author Information
 ------------------
 
-John Freeman
+Steamulo - www.steamulo.com
 
-GantSign Ltd.
-Company No. 06109112 (registered in England)
+Forked from [John Freeman](https://github.com/gantsign)
